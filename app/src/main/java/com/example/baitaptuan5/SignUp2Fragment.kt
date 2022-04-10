@@ -11,7 +11,6 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import com.example.baitaptuan5.databinding.ActivitySignupBinding
 import com.example.baitaptuan5.databinding.FragmentSignup2Binding
 
 
